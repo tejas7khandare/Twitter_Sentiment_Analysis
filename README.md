@@ -1,8 +1,8 @@
 # Twitter Sentiment Analysis for Hate Speech Detection
 
-- Processed a dataset comprising 31,962 labeled tweets to tackle hate speech, prioritizing racist and sexist content, through comprehensive data preprocessing techniques.
+1 Processed a dataset comprising 31,962 labeled tweets to tackle hate speech, prioritizing racist and sexist content, through comprehensive data preprocessing techniques.
 
-- Conducted visualization methods to gain insights into negative and positive word distributions, enhancing understanding of the dataset's sentiment dynamics.
+2 Conducted visualization methods to gain insights into negative and positive word distributions, enhancing understanding of the dataset's sentiment dynamics.
 
 - Employed feature extraction techniques including bag of words and TF-IDF to effectively capture linguistic features critical for hate speech classification.
 

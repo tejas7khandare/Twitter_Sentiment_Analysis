@@ -9,3 +9,5 @@
 4. Implemented three distinct machine learning models, namely logistic regression, XGBoost, and decision trees, for robust classification of hate speech instances within the dataset.
 
 5. Evaluated model performance using F1 score metrics and selected the model with the highest F1 score for testing, ensuring optimal classification accuracy in identifying and moderating harmful online discourse.
+  
+6. Applied the trained model to a set of 17,191 unlabeled tweets to assess its real-world effectiveness in mitigating hate speech on social media.
